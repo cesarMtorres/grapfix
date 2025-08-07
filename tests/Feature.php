@@ -1,6 +1,6 @@
 <?php
 
-use CesarMTorres\grapfix\Example;
+use CesarMTorres\Grapfix\Example;
 
 it('foo', function () {
     $example = new Example;

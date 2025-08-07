@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CesarMTorres\grapfix;
+namespace CesarMTorres\Grapfix;
 
 /**
  * @internal
